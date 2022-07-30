@@ -3,3 +3,14 @@ D:\Jogo de Xadrez\jogo-xadrez\jogo-xadrez\obj\Debug\net5.0\jogo-xadrez.Generated
 D:\Jogo de Xadrez\jogo-xadrez\jogo-xadrez\obj\Debug\net5.0\jogo-xadrez.AssemblyInfoInputs.cache
 D:\Jogo de Xadrez\jogo-xadrez\jogo-xadrez\obj\Debug\net5.0\jogo-xadrez.AssemblyInfo.cs
 D:\Jogo de Xadrez\jogo-xadrez\jogo-xadrez\obj\Debug\net5.0\jogo-xadrez.csproj.CoreCompileInputs.cache
+D:\Jogo de Xadrez\jogo-xadrez\jogo-xadrez\bin\Debug\net5.0\jogo-xadrez.exe
+D:\Jogo de Xadrez\jogo-xadrez\jogo-xadrez\bin\Debug\net5.0\jogo-xadrez.deps.json
+D:\Jogo de Xadrez\jogo-xadrez\jogo-xadrez\bin\Debug\net5.0\jogo-xadrez.runtimeconfig.json
+D:\Jogo de Xadrez\jogo-xadrez\jogo-xadrez\bin\Debug\net5.0\jogo-xadrez.runtimeconfig.dev.json
+D:\Jogo de Xadrez\jogo-xadrez\jogo-xadrez\bin\Debug\net5.0\jogo-xadrez.dll
+D:\Jogo de Xadrez\jogo-xadrez\jogo-xadrez\bin\Debug\net5.0\jogo-xadrez.pdb
+D:\Jogo de Xadrez\jogo-xadrez\jogo-xadrez\obj\Debug\net5.0\jogo-xadrez.dll
+D:\Jogo de Xadrez\jogo-xadrez\jogo-xadrez\obj\Debug\net5.0\refint\jogo-xadrez.dll
+D:\Jogo de Xadrez\jogo-xadrez\jogo-xadrez\obj\Debug\net5.0\jogo-xadrez.pdb
+D:\Jogo de Xadrez\jogo-xadrez\jogo-xadrez\obj\Debug\net5.0\jogo-xadrez.genruntimeconfig.cache
+D:\Jogo de Xadrez\jogo-xadrez\jogo-xadrez\obj\Debug\net5.0\ref\jogo-xadrez.dll
