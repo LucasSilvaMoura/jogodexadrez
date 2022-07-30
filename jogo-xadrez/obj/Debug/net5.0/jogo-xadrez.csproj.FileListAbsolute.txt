@@ -1,0 +1,5 @@
+D:\Jogo de Xadrez\jogo-xadrez\jogo-xadrez\obj\Debug\net5.0\jogo-xadrez.csproj.AssemblyReference.cache
+D:\Jogo de Xadrez\jogo-xadrez\jogo-xadrez\obj\Debug\net5.0\jogo-xadrez.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jogo de Xadrez\jogo-xadrez\jogo-xadrez\obj\Debug\net5.0\jogo-xadrez.AssemblyInfoInputs.cache
+D:\Jogo de Xadrez\jogo-xadrez\jogo-xadrez\obj\Debug\net5.0\jogo-xadrez.AssemblyInfo.cs
+D:\Jogo de Xadrez\jogo-xadrez\jogo-xadrez\obj\Debug\net5.0\jogo-xadrez.csproj.CoreCompileInputs.cache
